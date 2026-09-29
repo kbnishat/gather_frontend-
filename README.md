@@ -12,7 +12,7 @@ The script runs lint and build, commits the changes, and pushes the current bran
 
 In the repository settings, open **Pages** and set **Source** to **GitHub Actions** once. The deployed site will be available at:
 
-`https://salahuddinjony.github.io/SEU_frontEnd/`
+`https://salahuddinjony.github.io/gather_frontend-s/`
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
